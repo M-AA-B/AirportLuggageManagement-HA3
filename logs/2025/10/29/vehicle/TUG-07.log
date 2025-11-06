@@ -1,0 +1,39 @@
+2025-10-29T21:07:27.568502500+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task RUNNING: Task{id='T1', type=LOAD, status=RUNNING, payload={flight=LH123, bag=BG998877}}
+2025-10-29T21:07:27.568502500+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task DONE: Task{id='T1', type=LOAD, status=DONE, payload={flight=LH123, bag=BG998877}}
+2025-10-29T21:07:27.571504+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Assigned LOAD LH123 bag=BG998877
+2025-10-29T21:08:08.258711+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task RUNNING: Task{id='T1', type=LOAD, status=RUNNING, payload={flight=LH123, bag=BG998877}}
+2025-10-29T21:08:08.259710100+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task DONE: Task{id='T1', type=LOAD, status=DONE, payload={flight=LH123, bag=BG998877}}
+2025-10-29T21:08:08.270711400+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Assigned LOAD LH123 bag=BG998877
+2025-10-29T21:13:36.444906600+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task RUNNING: Task{id='T1', type=LOAD, status=RUNNING, payload={flight=LH123, bag=BG998877}}
+2025-10-29T21:13:36.445917500+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task DONE: Task{id='T1', type=LOAD, status=DONE, payload={flight=LH123, bag=BG998877}}
+2025-10-29T21:13:36.448906900+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Assigned LOAD LH123 bag=BG998877
+2025-10-29T21:23:28.653955900+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task RUNNING: Task{id='T1', type=LOAD, status=RUNNING, payload={flight=LH123, bag=BG998877}}
+2025-10-29T21:23:28.654956400+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task DONE: Task{id='T1', type=LOAD, status=DONE, payload={flight=LH123, bag=BG998877}}
+2025-10-29T21:23:28.657960300+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Assigned LOAD LH123 bag=BG998877
+2025-10-29T22:29:52.606536+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task RUNNING: Task{id='T1', type=LOAD, status=RUNNING, payload={flight=LH123, bag=BG998877}}
+2025-10-29T22:29:52.607536800+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task DONE: Task{id='T1', type=LOAD, status=DONE, payload={flight=LH123, bag=BG998877}}
+2025-10-29T22:29:52.609535900+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Assigned LOAD LH123 bag=BG998877
+2025-10-29T22:35:09.646728200+01:00 [INFO] [vehicle:TUG-07 | Tug 07] No task to dispatch
+2025-10-29T22:35:09.649721800+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task RUNNING: Task{id='T1', type=LOAD, status=RUNNING, payload={}}
+2025-10-29T22:35:09.650724500+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task DONE: Task{id='T1', type=LOAD, status=DONE, payload={}}
+2025-10-29T22:35:09.652725900+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task RUNNING: Task{id='T1', type=LOAD, status=RUNNING, payload={}}
+2025-10-29T22:35:09.653725300+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task DONE: Task{id='T1', type=LOAD, status=DONE, payload={}}
+2025-10-29T22:35:09.656723+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task RUNNING: Task{id='X', type=TRANSFER, status=RUNNING, payload={}}
+2025-10-29T22:35:09.657723+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task DONE: Task{id='X', type=TRANSFER, status=DONE, payload={}}
+2025-10-29T22:35:09.671724800+01:00 [INFO] [vehicle:TUG-07 | Tug 07] hello
+2025-10-29T22:35:59.531805700+01:00 [INFO] [vehicle:TUG-07 | Tug 07] No task to dispatch
+2025-10-29T22:35:59.535806200+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task RUNNING: Task{id='T1', type=LOAD, status=RUNNING, payload={}}
+2025-10-29T22:35:59.536805100+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task DONE: Task{id='T1', type=LOAD, status=DONE, payload={}}
+2025-10-29T22:35:59.540805200+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task RUNNING: Task{id='T1', type=LOAD, status=RUNNING, payload={}}
+2025-10-29T22:35:59.541808400+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task DONE: Task{id='T1', type=LOAD, status=DONE, payload={}}
+2025-10-29T22:35:59.546804100+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task RUNNING: Task{id='X', type=TRANSFER, status=RUNNING, payload={}}
+2025-10-29T22:35:59.547803900+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task DONE: Task{id='X', type=TRANSFER, status=DONE, payload={}}
+2025-10-29T22:35:59.563808700+01:00 [INFO] [vehicle:TUG-07 | Tug 07] hello
+2025-10-29T22:39:56.266954800+01:00 [INFO] [vehicle:TUG-07 | Tug 07] No task to dispatch
+2025-10-29T22:39:56.270958200+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task RUNNING: Task{id='T1', type=LOAD, status=RUNNING, payload={}}
+2025-10-29T22:39:56.271959200+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task DONE: Task{id='T1', type=LOAD, status=DONE, payload={}}
+2025-10-29T22:39:56.275956600+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task RUNNING: Task{id='T1', type=LOAD, status=RUNNING, payload={}}
+2025-10-29T22:39:56.276951600+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task DONE: Task{id='T1', type=LOAD, status=DONE, payload={}}
+2025-10-29T22:39:56.281958200+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task RUNNING: Task{id='X', type=TRANSFER, status=RUNNING, payload={}}
+2025-10-29T22:39:56.282961100+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task DONE: Task{id='X', type=TRANSFER, status=DONE, payload={}}
+2025-10-29T22:39:56.299962+01:00 [INFO] [vehicle:TUG-07 | Tug 07] hello

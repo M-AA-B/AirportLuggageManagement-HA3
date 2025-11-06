@@ -1,0 +1,508 @@
+2025-11-06T21:57:54.256981600+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 arrived to charging queue (arr=2 min)
+2025-11-06T21:57:54.262964200+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 waited 0 minutes.
+2025-11-06T21:57:54.266965200+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 started charging for 14 minutes.
+2025-11-06T21:57:54.570734+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 arrived to charging queue (arr=6 min)
+2025-11-06T21:57:54.573732600+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 waited 0 minutes.
+2025-11-06T21:57:54.576730500+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 started charging for 25 minutes.
+2025-11-06T21:57:54.648754800+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 arrived to charging queue (arr=7 min)
+2025-11-06T21:57:54.729842+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-10 arrived to charging queue (arr=8 min)
+2025-11-06T21:57:54.734854300+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 arrived to charging queue (arr=8 min)
+2025-11-06T21:57:54.969970100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-07 arrived to charging queue (arr=11 min)
+2025-11-06T21:57:55.129374200+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 arrived to charging queue (arr=13 min)
+2025-11-06T21:57:55.132375500+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-08 arrived to charging queue (arr=13 min)
+2025-11-06T21:57:55.136377700+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-09 arrived to charging queue (arr=13 min)
+2025-11-06T21:57:55.390648800+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 finished charging.
+2025-11-06T21:57:55.391650100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 waited 9 minutes.
+2025-11-06T21:57:55.393650600+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 started charging for 11 minutes.
+2025-11-06T21:57:55.447518500+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 arrived to charging queue (arr=17 min)
+2025-11-06T21:57:56.275314900+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 finished charging.
+2025-11-06T21:57:56.277310300+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-10 waited 19 minutes (>=15).
+2025-11-06T21:57:56.278307600+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-10 started charging for 31 minutes.
+2025-11-06T21:57:56.583547400+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 finished charging.
+2025-11-06T21:57:56.586557200+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-05 waited 23 minutes (>=15).
+2025-11-06T21:57:56.588560100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 started charging for 28 minutes.
+2025-11-06T21:57:58.761676100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-10 finished charging.
+2025-11-06T21:57:58.765678200+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-07 waited 47 minutes (>=15).
+2025-11-06T21:57:58.769693200+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-07 started charging for 31 minutes.
+2025-11-06T21:57:58.831734600+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 finished charging.
+2025-11-06T21:57:58.835726300+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-03 waited 46 minutes (>=15).
+2025-11-06T21:57:58.838742300+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 started charging for 28 minutes.
+2025-11-06T21:58:01.082612300+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 finished charging.
+2025-11-06T21:58:01.085603300+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-08 waited 74 minutes (>=15).
+2025-11-06T21:58:01.086610600+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-08 started charging for 32 minutes.
+2025-11-06T21:58:01.252976100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-07 finished charging.
+2025-11-06T21:58:01.257988100+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-09 waited 77 minutes (>=15).
+2025-11-06T21:58:01.260973400+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-09 started charging for 13 minutes.
+2025-11-06T21:58:02.303157100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-09 finished charging.
+2025-11-06T21:58:02.307173300+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-01 waited 86 minutes (>=15).
+2025-11-06T21:58:02.310165400+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 started charging for 29 minutes.
+2025-11-06T21:58:03.649893600+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-08 finished charging.
+2025-11-06T21:58:04.633439200+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 finished charging.
+2025-11-06T22:02:09.594623400+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 arrived to charging queue (arr=2 min)
+2025-11-06T22:02:09.595619500+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 arrived to charging queue (arr=2 min)
+2025-11-06T22:02:09.597648200+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 waited 0 minutes.
+2025-11-06T22:02:09.598627400+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 waited 0 minutes.
+2025-11-06T22:02:09.599620900+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 started charging for 14 minutes.
+2025-11-06T22:02:09.601627800+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 started charging for 22 minutes.
+2025-11-06T22:02:10.475924900+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 arrived to charging queue (arr=13 min)
+2025-11-06T22:02:10.722485200+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 finished charging.
+2025-11-06T22:02:10.723486300+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 waited 3 minutes.
+2025-11-06T22:02:10.725486300+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 started charging for 10 minutes.
+2025-11-06T22:02:10.953564+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 arrived to charging queue (arr=19 min)
+2025-11-06T22:02:11.365822900+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 finished charging.
+2025-11-06T22:02:11.368825700+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 waited 5 minutes.
+2025-11-06T22:02:11.371825900+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 started charging for 14 minutes.
+2025-11-06T22:02:11.526816800+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 finished charging.
+2025-11-06T22:02:12.497480600+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 finished charging.
+2025-11-06T22:10:07.536613600+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 arrived (arr=0 min, batt=59%, rate=1%/min, will charge 41 min)
+2025-11-06T22:10:07.541611900+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 waited 0 minutes.
+2025-11-06T22:10:07.543613300+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 started charging for 41 minutes (to reach 100%).
+2025-11-06T22:10:07.828989300+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 arrived (arr=3 min, batt=43%, rate=1%/min, will charge 57 min)
+2025-11-06T22:10:07.832973900+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-07 arrived (arr=3 min, batt=46%, rate=1%/min, will charge 54 min)
+2025-11-06T22:10:07.836988200+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 waited 0 minutes.
+2025-11-06T22:10:07.838988900+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 started charging for 57 minutes (to reach 100%).
+2025-11-06T22:10:07.841989500+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-07 waited 0 minutes.
+2025-11-06T22:10:07.844986500+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-07 started charging for 54 minutes (to reach 100%).
+2025-11-06T22:10:08.628517400+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 arrived (arr=11 min, batt=29%, rate=1%/min, will charge 71 min)
+2025-11-06T22:10:08.927149700+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 arrived (arr=14 min, batt=48%, rate=1%/min, will charge 52 min)
+2025-11-06T22:10:09.231943100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 arrived (arr=17 min, batt=89%, rate=1%/min, will charge 11 min)
+2025-11-06T22:10:09.234944400+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 arrived (arr=17 min, batt=42%, rate=1%/min, will charge 58 min)
+2025-11-06T22:10:11.647172200+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 finished charging (100%).
+2025-11-06T22:10:11.651163+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-05 waited 30 minutes (>=15).
+2025-11-06T22:10:11.656156500+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 started charging for 71 minutes (to reach 100%).
+2025-11-06T22:10:13.247650700+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-07 finished charging (100%).
+2025-11-06T22:10:13.248638700+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-01 waited 43 minutes (>=15).
+2025-11-06T22:10:13.250640500+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 started charging for 52 minutes (to reach 100%).
+2025-11-06T22:10:13.540637800+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 finished charging (100%).
+2025-11-06T22:10:13.541639700+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-03 waited 43 minutes (>=15).
+2025-11-06T22:10:13.543637300+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 started charging for 11 minutes (to reach 100%).
+2025-11-06T22:10:14.646194100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 finished charging (100%).
+2025-11-06T22:10:14.649181+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-04 waited 54 minutes (>=15).
+2025-11-06T22:10:14.651189800+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 started charging for 58 minutes (to reach 100%).
+2025-11-06T22:10:18.451281600+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 finished charging (100%).
+2025-11-06T22:10:18.758496500+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 finished charging (100%).
+2025-11-06T22:10:20.454472200+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 finished charging (100%).
+2025-11-06T22:25:20.766739700+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 arrived (arr=4 min, batt=35%, plan charge 65 min) — earliest station free at 0 min
+2025-11-06T22:25:20.768739100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 waited 0 minutes.
+2025-11-06T22:25:20.769733900+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 START charge at 4' for 65' (to 100%).
+2025-11-06T22:25:20.771735300+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 END charge at 69' (100%).
+2025-11-06T22:25:20.774743300+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 arrived (arr=5 min, batt=27%, plan charge 73 min) — earliest station free at 0 min
+2025-11-06T22:25:20.776737100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 waited 0 minutes.
+2025-11-06T22:25:20.778737700+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 START charge at 5' for 73' (to 100%).
+2025-11-06T22:25:20.779731200+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 END charge at 78' (100%).
+2025-11-06T22:25:20.781733500+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 arrived (arr=5 min, batt=30%, plan charge 70 min) — earliest station free at 0 min
+2025-11-06T22:25:20.783732+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 waited 0 minutes.
+2025-11-06T22:25:20.784732600+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 START charge at 5' for 70' (to 100%).
+2025-11-06T22:25:20.786739900+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 END charge at 75' (100%).
+2025-11-06T22:25:20.787741600+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 arrived (arr=9 min, batt=51%, plan charge 49 min) — earliest station free at 0 min
+2025-11-06T22:25:20.788732200+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 waited 0 minutes.
+2025-11-06T22:25:20.790735600+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 START charge at 9' for 49' (to 100%).
+2025-11-06T22:25:20.791735300+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 END charge at 58' (100%).
+2025-11-06T22:25:20.792750800+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 arrived (arr=12 min, batt=29%, plan charge 71 min) — earliest station free at 58 min
+2025-11-06T22:25:20.793737400+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-01 waited 46 minutes (>=15).
+2025-11-06T22:25:20.794735200+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 START charge at 58' for 71' (to 100%).
+2025-11-06T22:25:20.795735500+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 END charge at 129' (100%).
+2025-11-06T22:25:20.796735100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-08 arrived (arr=12 min, batt=20%, plan charge 80 min) — earliest station free at 69 min
+2025-11-06T22:25:20.797736500+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-08 waited 57 minutes (>=15).
+2025-11-06T22:25:20.798736200+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-08 START charge at 69' for 80' (to 100%).
+2025-11-06T22:25:20.799738600+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-08 END charge at 149' (100%).
+2025-11-06T22:25:20.801733400+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 arrived (arr=15 min, batt=47%, plan charge 53 min) — earliest station free at 75 min
+2025-11-06T22:25:20.802731900+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-05 waited 60 minutes (>=15).
+2025-11-06T22:25:20.803731400+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 START charge at 75' for 53' (to 100%).
+2025-11-06T22:25:20.804734+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 END charge at 128' (100%).
+2025-11-06T22:25:20.805732400+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-07 arrived (arr=19 min, batt=68%, plan charge 32 min) — earliest station free at 78 min
+2025-11-06T22:25:20.806735+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-07 waited 59 minutes (>=15).
+2025-11-06T22:25:20.808731400+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-07 START charge at 78' for 32' (to 100%).
+2025-11-06T22:25:20.809735400+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-07 END charge at 110' (100%).
+2025-11-06T22:25:50.984303+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 arrived (arr=1 min, batt=21%, plan charge 79 min) — earliest station free at 0 min
+2025-11-06T22:25:50.985300+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 waited 0 minutes.
+2025-11-06T22:25:50.986299600+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 START charge at 1' for 79' (to 100%).
+2025-11-06T22:25:50.987298+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 END charge at 80' (100%).
+2025-11-06T22:25:50.988302600+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-08 arrived (arr=1 min, batt=78%, plan charge 22 min) — earliest station free at 80 min
+2025-11-06T22:25:50.989302200+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-08 waited 79 minutes (>=15).
+2025-11-06T22:25:50.990302200+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-08 START charge at 80' for 22' (to 100%).
+2025-11-06T22:25:50.991300200+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-08 END charge at 102' (100%).
+2025-11-06T22:25:50.992299+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 arrived (arr=4 min, batt=61%, plan charge 39 min) — earliest station free at 102 min
+2025-11-06T22:25:50.994304500+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-02 waited 98 minutes (>=15).
+2025-11-06T22:25:50.995303300+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 START charge at 102' for 39' (to 100%).
+2025-11-06T22:25:50.996303+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 END charge at 141' (100%).
+2025-11-06T22:25:50.998304+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 arrived (arr=5 min, batt=20%, plan charge 80 min) — earliest station free at 141 min
+2025-11-06T22:25:50.999315400+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-04 waited 136 minutes (>=15).
+2025-11-06T22:25:51.000301300+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 START charge at 141' for 80' (to 100%).
+2025-11-06T22:25:51.001301200+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 END charge at 221' (100%).
+2025-11-06T22:25:51.001301200+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 arrived (arr=13 min, batt=66%, plan charge 34 min) — earliest station free at 221 min
+2025-11-06T22:25:51.002304100+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-06 waited 208 minutes (>=15).
+2025-11-06T22:25:51.003302400+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 START charge at 221' for 34' (to 100%).
+2025-11-06T22:25:51.004301+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 END charge at 255' (100%).
+2025-11-06T22:25:51.005302800+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-09 arrived (arr=16 min, batt=23%, plan charge 77 min) — earliest station free at 255 min
+2025-11-06T22:25:51.006303100+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-09 waited 239 minutes (>=15).
+2025-11-06T22:25:51.006303100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-09 START charge at 255' for 77' (to 100%).
+2025-11-06T22:25:51.007303600+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-09 END charge at 332' (100%).
+2025-11-06T22:25:51.008311100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 arrived (arr=19 min, batt=88%, plan charge 12 min) — earliest station free at 332 min
+2025-11-06T22:25:51.009325300+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-01 waited 313 minutes (>=15).
+2025-11-06T22:25:51.010300400+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 START charge at 332' for 12' (to 100%).
+2025-11-06T22:25:51.011299600+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 END charge at 344' (100%).
+2025-11-06T22:25:51.012301500+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-07 arrived (arr=19 min, batt=15%, plan charge 85 min) — earliest station free at 344 min
+2025-11-06T22:25:51.014302200+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-07 waited 325 minutes (>=15).
+2025-11-06T22:25:51.015305400+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-07 START charge at 344' for 85' (to 100%).
+2025-11-06T22:25:51.016308800+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-07 END charge at 429' (100%).
+2025-11-06T22:25:51.016308800+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-10 arrived (arr=19 min, batt=54%, plan charge 46 min) — earliest station free at 429 min
+2025-11-06T22:25:51.017299300+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-10 waited 410 minutes (>=15).
+2025-11-06T22:25:51.018301500+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-10 START charge at 429' for 46' (to 100%).
+2025-11-06T22:25:51.019303+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-10 END charge at 475' (100%).
+2025-11-06T22:25:51.020304600+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 arrived (arr=20 min, batt=56%, plan charge 44 min) — earliest station free at 475 min
+2025-11-06T22:25:51.021303+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-03 waited 455 minutes (>=15).
+2025-11-06T22:25:51.022303600+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 START charge at 475' for 44' (to 100%).
+2025-11-06T22:25:51.022303600+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 END charge at 519' (100%).
+2025-11-06T22:26:38.245203200+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 arrived (arr=1 min, batt=80%, plan charge 20 min) — earliest station free at 0 min
+2025-11-06T22:26:38.246199+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 waited 0 minutes.
+2025-11-06T22:26:38.249213900+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 START charge at 1' for 20' (to 100%).
+2025-11-06T22:26:38.251201100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 END charge at 21' (100%).
+2025-11-06T22:26:38.255202600+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-08 arrived (arr=6 min, batt=83%, plan charge 17 min) — earliest station free at 21 min
+2025-11-06T22:26:38.257201+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-08 waited 15 minutes (>=15).
+2025-11-06T22:26:38.258203800+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-08 START charge at 21' for 17' (to 100%).
+2025-11-06T22:26:38.260201+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-08 END charge at 38' (100%).
+2025-11-06T22:26:38.262200100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-09 arrived (arr=6 min, batt=10%, plan charge 90 min) — earliest station free at 38 min
+2025-11-06T22:26:38.265201100+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-09 waited 32 minutes (>=15).
+2025-11-06T22:26:38.268200600+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-09 START charge at 38' for 90' (to 100%).
+2025-11-06T22:26:38.273197200+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-09 END charge at 128' (100%).
+2025-11-06T22:26:38.275197+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 arrived (arr=11 min, batt=45%, plan charge 55 min) — earliest station free at 128 min
+2025-11-06T22:26:38.277196700+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-06 waited 117 minutes (>=15).
+2025-11-06T22:26:38.278202600+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 START charge at 128' for 55' (to 100%).
+2025-11-06T22:26:38.279199800+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 END charge at 183' (100%).
+2025-11-06T22:26:38.281196700+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-07 arrived (arr=12 min, batt=69%, plan charge 31 min) — earliest station free at 183 min
+2025-11-06T22:26:38.283198200+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-07 waited 171 minutes (>=15).
+2025-11-06T22:26:38.284196600+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-07 START charge at 183' for 31' (to 100%).
+2025-11-06T22:26:38.285196800+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-07 END charge at 214' (100%).
+2025-11-06T22:26:38.287208400+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 arrived (arr=15 min, batt=40%, plan charge 60 min) — earliest station free at 214 min
+2025-11-06T22:26:38.288195800+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-01 waited 199 minutes (>=15).
+2025-11-06T22:26:38.289195300+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 START charge at 214' for 60' (to 100%).
+2025-11-06T22:26:38.291213200+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 END charge at 274' (100%).
+2025-11-06T22:26:38.293198+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 arrived (arr=15 min, batt=84%, plan charge 16 min) — earliest station free at 274 min
+2025-11-06T22:26:38.294196600+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-02 waited 259 minutes (>=15).
+2025-11-06T22:26:38.295198500+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 START charge at 274' for 16' (to 100%).
+2025-11-06T22:26:38.296195400+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 END charge at 290' (100%).
+2025-11-06T22:26:38.297197100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 arrived (arr=17 min, batt=70%, plan charge 30 min) — earliest station free at 290 min
+2025-11-06T22:26:38.299214400+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-03 waited 273 minutes (>=15).
+2025-11-06T22:26:38.300196100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 START charge at 290' for 30' (to 100%).
+2025-11-06T22:26:38.301196200+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 END charge at 320' (100%).
+2025-11-06T22:26:38.302195600+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 arrived (arr=20 min, batt=81%, plan charge 19 min) — earliest station free at 320 min
+2025-11-06T22:26:38.303196100+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-04 waited 300 minutes (>=15).
+2025-11-06T22:26:38.304195300+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 START charge at 320' for 19' (to 100%).
+2025-11-06T22:26:38.305198200+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 END charge at 339' (100%).
+2025-11-06T22:31:20.396637+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 arrived (arr=1 min, batt=30%, plan charge 70 min) — earliest station free at 0 min (cs=1)
+2025-11-06T22:31:20.397643900+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 waited 0 minutes. (cs=1)
+2025-11-06T22:31:20.399641400+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 START charge at 1' for 70' (to 100%) on cs=1.
+2025-11-06T22:31:20.400677300+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 END charge at 71' (100%) on cs=1.
+2025-11-06T22:31:20.402640700+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-07 arrived (arr=1 min, batt=85%, plan charge 15 min) — earliest station free at 0 min (cs=2)
+2025-11-06T22:31:20.403641+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-07 waited 0 minutes. (cs=2)
+2025-11-06T22:31:20.405636200+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-07 START charge at 1' for 15' (to 100%) on cs=2.
+2025-11-06T22:31:20.406635500+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-07 END charge at 16' (100%) on cs=2.
+2025-11-06T22:31:20.407640200+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-08 arrived (arr=3 min, batt=80%, plan charge 20 min) — earliest station free at 0 min (cs=3)
+2025-11-06T22:31:20.409638700+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-08 waited 0 minutes. (cs=3)
+2025-11-06T22:31:20.410638700+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-08 START charge at 3' for 20' (to 100%) on cs=3.
+2025-11-06T22:31:20.411636800+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-08 END charge at 23' (100%) on cs=3.
+2025-11-06T22:31:20.413639100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 arrived (arr=6 min, batt=42%, plan charge 58 min) — earliest station free at 0 min (cs=4)
+2025-11-06T22:31:20.413639100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 waited 0 minutes. (cs=4)
+2025-11-06T22:31:20.415637800+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 START charge at 6' for 58' (to 100%) on cs=4.
+2025-11-06T22:31:20.416639100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 END charge at 64' (100%) on cs=4.
+2025-11-06T22:31:20.417643100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 arrived (arr=7 min, batt=78%, plan charge 22 min) — earliest station free at 16 min (cs=2)
+2025-11-06T22:31:20.418641300+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 waited 9 minutes. (cs=2)
+2025-11-06T22:31:20.419641500+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 START charge at 16' for 22' (to 100%) on cs=2.
+2025-11-06T22:31:20.420638900+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 END charge at 38' (100%) on cs=2.
+2025-11-06T22:31:20.421637400+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 arrived (arr=9 min, batt=52%, plan charge 48 min) — earliest station free at 23 min (cs=3)
+2025-11-06T22:31:20.423638300+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 waited 14 minutes. (cs=3)
+2025-11-06T22:31:20.424655+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 START charge at 23' for 48' (to 100%) on cs=3.
+2025-11-06T22:31:20.424655+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 END charge at 71' (100%) on cs=3.
+2025-11-06T22:31:20.425639600+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 arrived (arr=13 min, batt=61%, plan charge 39 min) — earliest station free at 38 min (cs=2)
+2025-11-06T22:31:20.426636800+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-04 waited 25 minutes (>=15). (cs=2)
+2025-11-06T22:31:20.427638500+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 START charge at 38' for 39' (to 100%) on cs=2.
+2025-11-06T22:31:20.428640+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 END charge at 77' (100%) on cs=2.
+2025-11-06T22:31:20.429639200+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 arrived (arr=19 min, batt=12%, plan charge 88 min) — earliest station free at 64 min (cs=4)
+2025-11-06T22:31:20.430645+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-01 waited 45 minutes (>=15). (cs=4)
+2025-11-06T22:31:20.431639300+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 START charge at 64' for 88' (to 100%) on cs=4.
+2025-11-06T22:31:20.432638+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 END charge at 152' (100%) on cs=4.
+2025-11-06T22:34:43.653699200+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 arrived (arr=0 min, batt=62%, plan charge 38 min) — earliest station free at 0 min (cs=1)
+2025-11-06T22:34:43.654692200+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 waited 0 minutes. (cs=1)
+2025-11-06T22:34:43.656693+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 START charge at 0' for 38' (to 100%) on cs=1.
+2025-11-06T22:34:43.658695400+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 END charge at 38' (100%) on cs=1.
+2025-11-06T22:34:43.661695700+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 arrived (arr=1 min, batt=17%, plan charge 83 min) — earliest station free at 0 min (cs=2)
+2025-11-06T22:34:43.662695500+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 waited 0 minutes. (cs=2)
+2025-11-06T22:34:43.663694400+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 START charge at 1' for 83' (to 100%) on cs=2.
+2025-11-06T22:34:43.665694500+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 END charge at 84' (100%) on cs=2.
+2025-11-06T22:34:43.666693800+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 arrived (arr=5 min, batt=17%, plan charge 83 min) — earliest station free at 38 min (cs=1)
+2025-11-06T22:34:43.667696+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-04 waited 33 minutes (>=15). (cs=1)
+2025-11-06T22:34:43.669703100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 START charge at 38' for 83' (to 100%) on cs=1.
+2025-11-06T22:34:43.670691600+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 END charge at 121' (100%) on cs=1.
+2025-11-06T22:34:43.671694400+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-07 arrived (arr=5 min, batt=64%, plan charge 36 min) — earliest station free at 84 min (cs=2)
+2025-11-06T22:34:43.673690100+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-07 waited 79 minutes (>=15). (cs=2)
+2025-11-06T22:34:43.674690800+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-07 START charge at 84' for 36' (to 100%) on cs=2.
+2025-11-06T22:34:43.675690800+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-07 END charge at 120' (100%) on cs=2.
+2025-11-06T22:34:43.676690100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 arrived (arr=11 min, batt=23%, plan charge 77 min) — earliest station free at 120 min (cs=2)
+2025-11-06T22:34:43.677716+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-05 waited 109 minutes (>=15). (cs=2)
+2025-11-06T22:34:43.678696300+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 START charge at 120' for 77' (to 100%) on cs=2.
+2025-11-06T22:34:43.679698100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 END charge at 197' (100%) on cs=2.
+2025-11-06T22:34:43.680699100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 arrived (arr=15 min, batt=75%, plan charge 25 min) — earliest station free at 121 min (cs=1)
+2025-11-06T22:34:43.681697700+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-06 waited 106 minutes (>=15). (cs=1)
+2025-11-06T22:34:43.682702100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 START charge at 121' for 25' (to 100%) on cs=1.
+2025-11-06T22:34:43.683696800+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 END charge at 146' (100%) on cs=1.
+2025-11-06T22:34:43.684698100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 arrived (arr=20 min, batt=26%, plan charge 74 min) — earliest station free at 146 min (cs=1)
+2025-11-06T22:34:43.685696400+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-03 waited 126 minutes (>=15). (cs=1)
+2025-11-06T22:34:43.686690+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 START charge at 146' for 74' (to 100%) on cs=1.
+2025-11-06T22:34:43.687698400+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 END charge at 220' (100%) on cs=1.
+2025-11-06T22:36:21.680201500+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 arrived (arr=1 min, batt=65%, plan charge 35 min) — earliest station free at 0 min (cs=1)
+2025-11-06T22:36:21.681195300+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 waited 0 minutes. (cs=1)
+2025-11-06T22:36:21.683196800+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 START charge at 1' for 35' (to 100%) on cs=1.
+2025-11-06T22:36:21.684201900+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 END charge at 36' (100%) on cs=1.
+2025-11-06T22:36:21.687193800+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 arrived (arr=1 min, batt=56%, plan charge 44 min) — earliest station free at 0 min (cs=2)
+2025-11-06T22:36:21.689196400+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 waited 0 minutes. (cs=2)
+2025-11-06T22:36:21.690199900+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 START charge at 1' for 44' (to 100%) on cs=2.
+2025-11-06T22:36:21.691195300+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 END charge at 45' (100%) on cs=2.
+2025-11-06T22:36:21.692193400+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 arrived (arr=1 min, batt=70%, plan charge 30 min) — earliest station free at 36 min (cs=1)
+2025-11-06T22:36:21.694196800+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-06 waited 35 minutes (>=15). (cs=1)
+2025-11-06T22:36:21.696197+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 START charge at 36' for 30' (to 100%) on cs=1.
+2025-11-06T22:36:21.697194900+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 END charge at 66' (100%) on cs=1.
+2025-11-06T22:36:21.698196600+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-10 arrived (arr=1 min, batt=23%, plan charge 77 min) — earliest station free at 45 min (cs=2)
+2025-11-06T22:36:21.700196500+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-10 waited 44 minutes (>=15). (cs=2)
+2025-11-06T22:36:21.701194800+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-10 START charge at 45' for 77' (to 100%) on cs=2.
+2025-11-06T22:36:21.702196200+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-10 END charge at 122' (100%) on cs=2.
+2025-11-06T22:36:21.704194800+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-08 arrived (arr=3 min, batt=86%, plan charge 14 min) — earliest station free at 66 min (cs=1)
+2025-11-06T22:36:21.705195500+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-08 waited 63 minutes (>=15). (cs=1)
+2025-11-06T22:36:21.706194500+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-08 START charge at 66' for 14' (to 100%) on cs=1.
+2025-11-06T22:36:21.707195+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-08 END charge at 80' (100%) on cs=1.
+2025-11-06T22:36:21.708195+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-07 arrived (arr=5 min, batt=72%, plan charge 28 min) — earliest station free at 80 min (cs=1)
+2025-11-06T22:36:21.709197200+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-07 waited 75 minutes (>=15). (cs=1)
+2025-11-06T22:36:21.711200100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-07 START charge at 80' for 28' (to 100%) on cs=1.
+2025-11-06T22:36:21.712199600+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-07 END charge at 108' (100%) on cs=1.
+2025-11-06T22:36:21.713198100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-09 arrived (arr=6 min, batt=21%, plan charge 79 min) — earliest station free at 108 min (cs=1)
+2025-11-06T22:36:21.714195700+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-09 waited 102 minutes (>=15). (cs=1)
+2025-11-06T22:36:21.715195800+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-09 START charge at 108' for 79' (to 100%) on cs=1.
+2025-11-06T22:36:21.716193900+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-09 END charge at 187' (100%) on cs=1.
+2025-11-06T22:36:21.717194700+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 arrived (arr=10 min, batt=10%, plan charge 90 min) — earliest station free at 122 min (cs=2)
+2025-11-06T22:36:21.718194700+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-02 waited 112 minutes (>=15). (cs=2)
+2025-11-06T22:36:21.719193+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 START charge at 122' for 90' (to 100%) on cs=2.
+2025-11-06T22:36:21.720199500+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 END charge at 212' (100%) on cs=2.
+2025-11-06T22:36:21.721196200+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 arrived (arr=14 min, batt=53%, plan charge 47 min) — earliest station free at 187 min (cs=1)
+2025-11-06T22:36:21.722197800+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-05 waited 173 minutes (>=15). (cs=1)
+2025-11-06T22:36:21.723197900+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 START charge at 187' for 47' (to 100%) on cs=1.
+2025-11-06T22:36:21.724197500+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 END charge at 234' (100%) on cs=1.
+2025-11-06T22:36:21.725195700+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 arrived (arr=16 min, batt=54%, plan charge 46 min) — earliest station free at 212 min (cs=2)
+2025-11-06T22:36:21.726198500+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-03 waited 196 minutes (>=15). (cs=2)
+2025-11-06T22:36:21.727198400+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 START charge at 212' for 46' (to 100%) on cs=2.
+2025-11-06T22:36:21.728199500+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 END charge at 258' (100%) on cs=2.
+2025-11-06T22:37:21.579862600+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 arrived (arr=0 min, batt=56%, plan charge 44 min) — earliest station free at 0 min (cs=1)
+2025-11-06T22:37:21.580855100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 waited 0 minutes. (cs=1)
+2025-11-06T22:37:21.581859100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 START charge at 0' for 44' (to 100%) on cs=1.
+2025-11-06T22:37:21.582855200+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 END charge at 44' (100%) on cs=1.
+2025-11-06T22:37:21.585858100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 arrived (arr=1 min, batt=51%, plan charge 49 min) — earliest station free at 0 min (cs=2)
+2025-11-06T22:37:21.586856800+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 waited 0 minutes. (cs=2)
+2025-11-06T22:37:21.587854700+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 START charge at 1' for 49' (to 100%) on cs=2.
+2025-11-06T22:37:21.588857600+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 END charge at 50' (100%) on cs=2.
+2025-11-06T22:37:21.589856600+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 arrived (arr=7 min, batt=68%, plan charge 32 min) — earliest station free at 44 min (cs=1)
+2025-11-06T22:37:21.590855600+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-01 waited 37 minutes (>=15). (cs=1)
+2025-11-06T22:37:21.592857600+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 START charge at 44' for 32' (to 100%) on cs=1.
+2025-11-06T22:37:21.593855800+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 END charge at 76' (100%) on cs=1.
+2025-11-06T22:37:21.594856700+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 arrived (arr=12 min, batt=77%, plan charge 23 min) — earliest station free at 50 min (cs=2)
+2025-11-06T22:37:21.595862800+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-03 waited 38 minutes (>=15). (cs=2)
+2025-11-06T22:37:21.596862700+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 START charge at 50' for 23' (to 100%) on cs=2.
+2025-11-06T22:37:21.598859500+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 END charge at 73' (100%) on cs=2.
+2025-11-06T22:37:21.599857300+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 arrived (arr=16 min, batt=69%, plan charge 31 min) — earliest station free at 73 min (cs=2)
+2025-11-06T22:37:21.600858300+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-06 waited 57 minutes (>=15). (cs=2)
+2025-11-06T22:37:21.601859900+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 START charge at 73' for 31' (to 100%) on cs=2.
+2025-11-06T22:37:21.602861300+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 END charge at 104' (100%) on cs=2.
+2025-11-06T22:37:21.604864100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-07 arrived (arr=18 min, batt=72%, plan charge 28 min) — earliest station free at 76 min (cs=1)
+2025-11-06T22:37:21.605858100+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-07 waited 58 minutes (>=15). (cs=1)
+2025-11-06T22:37:21.606856300+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-07 START charge at 76' for 28' (to 100%) on cs=1.
+2025-11-06T22:37:21.607860800+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-07 END charge at 104' (100%) on cs=1.
+2025-11-06T22:37:21.608867600+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 arrived (arr=19 min, batt=64%, plan charge 36 min) — earliest station free at 104 min (cs=1)
+2025-11-06T22:37:21.609852500+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-02 waited 85 minutes (>=15). (cs=1)
+2025-11-06T22:37:21.610854600+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 START charge at 104' for 36' (to 100%) on cs=1.
+2025-11-06T22:37:21.612856300+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 END charge at 140' (100%) on cs=1.
+2025-11-06T22:37:31.579618500+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 arrived (arr=9 min, batt=53%, plan charge 47 min) — earliest station free at 0 min (cs=1)
+2025-11-06T22:37:31.581616400+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 waited 0 minutes. (cs=1)
+2025-11-06T22:37:31.582612100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 START charge at 9' for 47' (to 100%) on cs=1.
+2025-11-06T22:37:31.584624400+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 END charge at 56' (100%) on cs=1.
+2025-11-06T22:37:31.585614200+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 arrived (arr=9 min, batt=25%, plan charge 75 min) — earliest station free at 0 min (cs=2)
+2025-11-06T22:37:31.586613400+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 waited 0 minutes. (cs=2)
+2025-11-06T22:37:31.588612+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 START charge at 9' for 75' (to 100%) on cs=2.
+2025-11-06T22:37:31.589611900+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 END charge at 84' (100%) on cs=2.
+2025-11-06T22:37:31.591611300+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 arrived (arr=14 min, batt=90%, plan charge 10 min) — earliest station free at 0 min (cs=3)
+2025-11-06T22:37:31.592611400+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 waited 0 minutes. (cs=3)
+2025-11-06T22:37:31.593610400+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 START charge at 14' for 10' (to 100%) on cs=3.
+2025-11-06T22:37:31.595615+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 END charge at 24' (100%) on cs=3.
+2025-11-06T22:37:31.596634+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 arrived (arr=18 min, batt=90%, plan charge 10 min) — earliest station free at 0 min (cs=4)
+2025-11-06T22:37:31.596634+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 waited 0 minutes. (cs=4)
+2025-11-06T22:37:31.597616800+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 START charge at 18' for 10' (to 100%) on cs=4.
+2025-11-06T22:37:31.598646500+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 END charge at 28' (100%) on cs=4.
+2025-11-06T22:37:31.599615200+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 arrived (arr=19 min, batt=84%, plan charge 16 min) — earliest station free at 24 min (cs=3)
+2025-11-06T22:37:31.600617600+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 waited 5 minutes. (cs=3)
+2025-11-06T22:37:31.601613200+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 START charge at 24' for 16' (to 100%) on cs=3.
+2025-11-06T22:37:31.602616100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 END charge at 40' (100%) on cs=3.
+2025-11-06T22:53:00.654358+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 arrived (arr=0 min, batt=62%, plan charge 38 min) — earliest station free at 0 min (cs=1)
+2025-11-06T22:53:00.656362+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 waited 0 minutes. (cs=1)
+2025-11-06T22:53:00.657369600+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 START charge at 0' for 38' (to 100%) on cs=1.
+2025-11-06T22:53:00.658356600+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 END charge at 38' (100%) on cs=1.
+2025-11-06T22:53:00.662355800+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-09 arrived (arr=2 min, batt=81%, plan charge 19 min) — earliest station free at 38 min (cs=1)
+2025-11-06T22:53:00.663356900+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-09 waited 36 minutes (>=15). (cs=1)
+2025-11-06T22:53:00.665353900+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-09 START charge at 38' for 19' (to 100%) on cs=1.
+2025-11-06T22:53:00.666355200+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-09 END charge at 57' (100%) on cs=1.
+2025-11-06T22:53:00.668356600+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 arrived (arr=8 min, batt=32%, plan charge 68 min) — earliest station free at 57 min (cs=1)
+2025-11-06T22:53:00.669355700+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-01 waited 49 minutes (>=15). (cs=1)
+2025-11-06T22:53:00.671354900+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 START charge at 57' for 68' (to 100%) on cs=1.
+2025-11-06T22:53:00.672354100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 END charge at 125' (100%) on cs=1.
+2025-11-06T22:53:00.673356600+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 arrived (arr=10 min, batt=52%, plan charge 48 min) — earliest station free at 125 min (cs=1)
+2025-11-06T22:53:00.676357+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-04 waited 115 minutes (>=15). (cs=1)
+2025-11-06T22:53:00.677355800+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 START charge at 125' for 48' (to 100%) on cs=1.
+2025-11-06T22:53:00.678357200+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 END charge at 173' (100%) on cs=1.
+2025-11-06T22:53:00.679357+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 arrived (arr=12 min, batt=74%, plan charge 26 min) — earliest station free at 173 min (cs=1)
+2025-11-06T22:53:00.681354800+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-05 waited 161 minutes (>=15). (cs=1)
+2025-11-06T22:53:00.685354400+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 START charge at 173' for 26' (to 100%) on cs=1.
+2025-11-06T22:53:00.688357800+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 END charge at 199' (100%) on cs=1.
+2025-11-06T22:53:00.689356200+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-07 arrived (arr=13 min, batt=60%, plan charge 40 min) — earliest station free at 199 min (cs=1)
+2025-11-06T22:53:00.691353700+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-07 waited 186 minutes (>=15). (cs=1)
+2025-11-06T22:53:00.693358200+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-07 START charge at 199' for 40' (to 100%) on cs=1.
+2025-11-06T22:53:00.694355500+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-07 END charge at 239' (100%) on cs=1.
+2025-11-06T22:53:00.696356800+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 arrived (arr=16 min, batt=53%, plan charge 47 min) — earliest station free at 239 min (cs=1)
+2025-11-06T22:53:00.697353500+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-03 waited 223 minutes (>=15). (cs=1)
+2025-11-06T22:53:00.698353600+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 START charge at 239' for 47' (to 100%) on cs=1.
+2025-11-06T22:53:00.700361700+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 END charge at 286' (100%) on cs=1.
+2025-11-06T22:53:00.702355600+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 arrived (arr=18 min, batt=53%, plan charge 47 min) — earliest station free at 286 min (cs=1)
+2025-11-06T22:53:00.703366600+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-02 waited 268 minutes (>=15). (cs=1)
+2025-11-06T22:53:00.704353800+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 START charge at 286' for 47' (to 100%) on cs=1.
+2025-11-06T22:53:00.705353800+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 END charge at 333' (100%) on cs=1.
+2025-11-06T22:53:00.708357900+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-08 arrived (arr=19 min, batt=26%, plan charge 74 min) — earliest station free at 333 min (cs=1)
+2025-11-06T22:53:00.710353100+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-08 waited 314 minutes (>=15). (cs=1)
+2025-11-06T22:53:00.711353900+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-08 START charge at 333' for 74' (to 100%) on cs=1.
+2025-11-06T22:53:00.712354100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-08 END charge at 407' (100%) on cs=1.
+2025-11-06T22:57:34.952917100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 arrived (arr=2 min, batt=19%, plan charge 81 min) — earliest station free at 0 min (cs=1)
+2025-11-06T22:57:34.954919400+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 waited 0 minutes. (cs=1)
+2025-11-06T22:57:34.956923800+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 START charge at 2' for 81' (to 100%) on cs=1.
+2025-11-06T22:57:34.957919100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 END charge at 83' (100%) on cs=1.
+2025-11-06T22:57:34.961918800+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 arrived (arr=7 min, batt=61%, plan charge 39 min) — earliest station free at 0 min (cs=2)
+2025-11-06T22:57:34.962919700+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 waited 0 minutes. (cs=2)
+2025-11-06T22:57:34.964916300+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 START charge at 7' for 39' (to 100%) on cs=2.
+2025-11-06T22:57:34.965914200+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 END charge at 46' (100%) on cs=2.
+2025-11-06T22:57:34.967935700+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 arrived (arr=9 min, batt=61%, plan charge 39 min) — earliest station free at 46 min (cs=2)
+2025-11-06T22:57:34.968917100+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-03 waited 37 minutes (>=15). (cs=2)
+2025-11-06T22:57:34.969915700+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 START charge at 46' for 39' (to 100%) on cs=2.
+2025-11-06T22:57:34.971915900+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 END charge at 85' (100%) on cs=2.
+2025-11-06T22:57:34.972915300+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 arrived (arr=11 min, batt=57%, plan charge 43 min) — earliest station free at 83 min (cs=1)
+2025-11-06T22:57:34.973919900+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-01 waited 72 minutes (>=15). (cs=1)
+2025-11-06T22:57:34.975920700+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 START charge at 83' for 43' (to 100%) on cs=1.
+2025-11-06T22:57:34.976919100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 END charge at 126' (100%) on cs=1.
+2025-11-06T22:57:34.978921200+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 arrived (arr=11 min, batt=65%, plan charge 35 min) — earliest station free at 85 min (cs=2)
+2025-11-06T22:57:34.979917100+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-05 waited 74 minutes (>=15). (cs=2)
+2025-11-06T22:57:34.980915600+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 START charge at 85' for 35' (to 100%) on cs=2.
+2025-11-06T22:57:34.982916400+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 END charge at 120' (100%) on cs=2.
+2025-11-06T22:57:34.983915700+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 arrived (arr=19 min, batt=23%, plan charge 77 min) — earliest station free at 120 min (cs=2)
+2025-11-06T22:57:34.984918700+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-02 waited 101 minutes (>=15). (cs=2)
+2025-11-06T22:57:34.985916900+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 START charge at 120' for 77' (to 100%) on cs=2.
+2025-11-06T22:57:34.986915300+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 END charge at 197' (100%) on cs=2.
+2025-11-06T23:00:11.413693100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 arrived (arr=1 min, batt=90%, plan charge 10 min) — earliest station free at 0 min (cs=1)
+2025-11-06T23:00:11.415695900+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 waited 0 minutes. (cs=1)
+2025-11-06T23:00:11.417697200+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 START charge at 1' for 10' (to 100%) on cs=1.
+2025-11-06T23:00:11.418693700+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 END charge at 11' (100%) on cs=1.
+2025-11-06T23:00:11.422693800+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 arrived (arr=3 min, batt=22%, plan charge 78 min) — earliest station free at 0 min (cs=2)
+2025-11-06T23:00:11.425694200+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 waited 0 minutes. (cs=2)
+2025-11-06T23:00:11.427694200+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 START charge at 3' for 78' (to 100%) on cs=2.
+2025-11-06T23:00:11.429692+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 END charge at 81' (100%) on cs=2.
+2025-11-06T23:00:11.430696400+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 arrived (arr=5 min, batt=54%, plan charge 46 min) — earliest station free at 11 min (cs=1)
+2025-11-06T23:00:11.431695+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 waited 6 minutes. (cs=1)
+2025-11-06T23:00:11.433692700+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 START charge at 11' for 46' (to 100%) on cs=1.
+2025-11-06T23:00:11.434694200+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 END charge at 57' (100%) on cs=1.
+2025-11-06T23:00:11.436692800+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 arrived (arr=6 min, batt=27%, plan charge 73 min) — earliest station free at 57 min (cs=1)
+2025-11-06T23:00:11.437695400+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-02 waited 51 minutes (>=15). (cs=1)
+2025-11-06T23:00:11.439694100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 START charge at 57' for 73' (to 100%) on cs=1.
+2025-11-06T23:00:11.440694+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 END charge at 130' (100%) on cs=1.
+2025-11-06T23:00:11.441696+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 arrived (arr=6 min, batt=27%, plan charge 73 min) — earliest station free at 81 min (cs=2)
+2025-11-06T23:00:11.442696+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-04 waited 75 minutes (>=15). (cs=2)
+2025-11-06T23:00:11.443693300+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 START charge at 81' for 73' (to 100%) on cs=2.
+2025-11-06T23:00:11.446697100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 END charge at 154' (100%) on cs=2.
+2025-11-06T23:00:11.448694200+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 arrived (arr=15 min, batt=11%, plan charge 89 min) — earliest station free at 130 min (cs=1)
+2025-11-06T23:00:11.449692400+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-06 waited 115 minutes (>=15). (cs=1)
+2025-11-06T23:00:11.450692900+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 START charge at 130' for 89' (to 100%) on cs=1.
+2025-11-06T23:00:11.451691600+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 END charge at 219' (100%) on cs=1.
+2025-11-06T23:00:11.452690700+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-07 arrived (arr=20 min, batt=31%, plan charge 69 min) — earliest station free at 154 min (cs=2)
+2025-11-06T23:00:11.452690700+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-07 waited 134 minutes (>=15). (cs=2)
+2025-11-06T23:00:11.453692200+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-07 START charge at 154' for 69' (to 100%) on cs=2.
+2025-11-06T23:00:11.454693300+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-07 END charge at 223' (100%) on cs=2.
+2025-11-06T23:16:00.828535600+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 arrived (arr=3 min, batt=16%, plan charge 84 min) — earliest station free at 0 min (cs=1)
+2025-11-06T23:16:00.831537500+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 waited 0 minutes. (cs=1)
+2025-11-06T23:16:00.834535900+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 START charge at 3' for 84' (to 100%) on cs=1.
+2025-11-06T23:16:00.835535200+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 END charge at 87' (100%) on cs=1.
+2025-11-06T23:16:00.839536500+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 arrived (arr=4 min, batt=81%, plan charge 19 min) — earliest station free at 0 min (cs=2)
+2025-11-06T23:16:00.840535300+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 waited 0 minutes. (cs=2)
+2025-11-06T23:16:00.842536700+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 START charge at 4' for 19' (to 100%) on cs=2.
+2025-11-06T23:16:00.844534500+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 END charge at 23' (100%) on cs=2.
+2025-11-06T23:16:00.846537100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 arrived (arr=7 min, batt=83%, plan charge 17 min) — earliest station free at 23 min (cs=2)
+2025-11-06T23:16:00.850538700+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-05 waited 16 minutes (>=15). (cs=2)
+2025-11-06T23:16:00.852534200+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 START charge at 23' for 17' (to 100%) on cs=2.
+2025-11-06T23:16:00.854537500+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 END charge at 40' (100%) on cs=2.
+2025-11-06T23:16:00.856539800+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 arrived (arr=12 min, batt=36%, plan charge 64 min) — earliest station free at 40 min (cs=2)
+2025-11-06T23:16:00.858537500+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-01 waited 28 minutes (>=15). (cs=2)
+2025-11-06T23:16:00.860535900+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 START charge at 40' for 64' (to 100%) on cs=2.
+2025-11-06T23:16:00.863538100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 END charge at 104' (100%) on cs=2.
+2025-11-06T23:16:00.865536400+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 arrived (arr=12 min, batt=76%, plan charge 24 min) — earliest station free at 87 min (cs=1)
+2025-11-06T23:16:00.869539600+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-04 waited 75 minutes (>=15). (cs=1)
+2025-11-06T23:16:00.871539900+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 START charge at 87' for 24' (to 100%) on cs=1.
+2025-11-06T23:16:00.872537700+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 END charge at 111' (100%) on cs=1.
+2025-11-06T23:16:00.874536600+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 arrived (arr=19 min, batt=18%, plan charge 82 min) — earliest station free at 104 min (cs=2)
+2025-11-06T23:16:00.876536400+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-02 waited 85 minutes (>=15). (cs=2)
+2025-11-06T23:16:00.878535800+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 START charge at 104' for 82' (to 100%) on cs=2.
+2025-11-06T23:16:00.882537+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 END charge at 186' (100%) on cs=2.
+2025-11-06T23:45:16.990991900+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 arrived (arr=1 min, batt=58%, plan charge 42 min) — earliest station free at 0 min (cs=1)
+2025-11-06T23:45:16.992993500+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 waited 0 minutes. (cs=1)
+2025-11-06T23:45:16.993995700+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 START charge at 1' for 42' (to 100%) on cs=1.
+2025-11-06T23:45:16.995992300+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 END charge at 43' (100%) on cs=1.
+2025-11-06T23:45:16.998997500+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 arrived (arr=7 min, batt=54%, plan charge 46 min) — earliest station free at 0 min (cs=2)
+2025-11-06T23:45:17.000993300+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 waited 0 minutes. (cs=2)
+2025-11-06T23:45:17.001993800+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 START charge at 7' for 46' (to 100%) on cs=2.
+2025-11-06T23:45:17.003992500+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 END charge at 53' (100%) on cs=2.
+2025-11-06T23:45:17.005990900+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 arrived (arr=9 min, batt=89%, plan charge 11 min) — earliest station free at 0 min (cs=3)
+2025-11-06T23:45:17.007993900+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 waited 0 minutes. (cs=3)
+2025-11-06T23:45:17.008993100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 START charge at 9' for 11' (to 100%) on cs=3.
+2025-11-06T23:45:17.010990900+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 END charge at 20' (100%) on cs=3.
+2025-11-06T23:45:17.011991100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 arrived (arr=11 min, batt=69%, plan charge 31 min) — earliest station free at 20 min (cs=3)
+2025-11-06T23:45:17.012993800+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 waited 9 minutes. (cs=3)
+2025-11-06T23:45:17.013991600+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 START charge at 20' for 31' (to 100%) on cs=3.
+2025-11-06T23:45:17.015993100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 END charge at 51' (100%) on cs=3.
+2025-11-06T23:45:17.017991900+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 arrived (arr=11 min, batt=82%, plan charge 18 min) — earliest station free at 43 min (cs=1)
+2025-11-06T23:45:17.018991200+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-05 waited 32 minutes (>=15). (cs=1)
+2025-11-06T23:45:17.019991100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 START charge at 43' for 18' (to 100%) on cs=1.
+2025-11-06T23:45:17.021003+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 END charge at 61' (100%) on cs=1.
+2025-11-06T23:45:17.022993300+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 arrived (arr=14 min, batt=16%, plan charge 84 min) — earliest station free at 51 min (cs=3)
+2025-11-06T23:45:17.023991400+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-06 waited 37 minutes (>=15). (cs=3)
+2025-11-06T23:45:17.025991200+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 START charge at 51' for 84' (to 100%) on cs=3.
+2025-11-06T23:45:17.026990400+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 END charge at 135' (100%) on cs=3.
+2025-11-06T23:45:17.027989500+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-07 arrived (arr=14 min, batt=63%, plan charge 37 min) — earliest station free at 53 min (cs=2)
+2025-11-06T23:45:17.028989100+01:00 [WARN] [charging:CS-SIM | Charger Simulator] AGV TUG-07 waited 39 minutes (>=15). (cs=2)
+2025-11-06T23:45:17.029991700+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-07 START charge at 53' for 37' (to 100%) on cs=2.
+2025-11-06T23:45:17.031989100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-07 END charge at 90' (100%) on cs=2.
+2025-11-06T23:48:54.462041300+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 arrived (arr=0 min, batt=83%, plan charge 17 min) — earliest station free at 0 min (cs=1)
+2025-11-06T23:48:54.463042200+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 waited 0 minutes. (cs=1)
+2025-11-06T23:48:54.464040300+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 START charge at 0' for 17' (to 100%) on cs=1.
+2025-11-06T23:48:54.466041300+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-03 END charge at 17' (100%) on cs=1.
+2025-11-06T23:48:54.469040400+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 arrived (arr=1 min, batt=73%, plan charge 27 min) — earliest station free at 0 min (cs=2)
+2025-11-06T23:48:54.471050700+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 waited 0 minutes. (cs=2)
+2025-11-06T23:48:54.472041300+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 START charge at 1' for 27' (to 100%) on cs=2.
+2025-11-06T23:48:54.473039700+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-02 END charge at 28' (100%) on cs=2.
+2025-11-06T23:48:54.475040300+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-07 arrived (arr=7 min, batt=85%, plan charge 15 min) — earliest station free at 0 min (cs=3)
+2025-11-06T23:48:54.482038100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-07 waited 0 minutes. (cs=3)
+2025-11-06T23:48:54.484039+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-07 START charge at 7' for 15' (to 100%) on cs=3.
+2025-11-06T23:48:54.491041300+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-07 END charge at 22' (100%) on cs=3.
+2025-11-06T23:48:54.496035900+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 arrived (arr=8 min, batt=35%, plan charge 65 min) — earliest station free at 0 min (cs=4)
+2025-11-06T23:48:54.499044100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 waited 0 minutes. (cs=4)
+2025-11-06T23:48:54.501040100+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 START charge at 8' for 65' (to 100%) on cs=4.
+2025-11-06T23:48:54.503035500+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-04 END charge at 73' (100%) on cs=4.
+2025-11-06T23:48:54.505050+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 arrived (arr=11 min, batt=32%, plan charge 68 min) — earliest station free at 17 min (cs=1)
+2025-11-06T23:48:54.506035200+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 waited 6 minutes. (cs=1)
+2025-11-06T23:48:54.509036500+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 START charge at 17' for 68' (to 100%) on cs=1.
+2025-11-06T23:48:54.512038400+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-06 END charge at 85' (100%) on cs=1.
+2025-11-06T23:48:54.514035400+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 arrived (arr=15 min, batt=74%, plan charge 26 min) — earliest station free at 22 min (cs=3)
+2025-11-06T23:48:54.516035700+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 waited 7 minutes. (cs=3)
+2025-11-06T23:48:54.517037900+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 START charge at 22' for 26' (to 100%) on cs=3.
+2025-11-06T23:48:54.518036500+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-01 END charge at 48' (100%) on cs=3.
+2025-11-06T23:48:54.520040700+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 arrived (arr=19 min, batt=38%, plan charge 62 min) — earliest station free at 28 min (cs=2)
+2025-11-06T23:48:54.523040500+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 waited 9 minutes. (cs=2)
+2025-11-06T23:48:54.524037900+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 START charge at 28' for 62' (to 100%) on cs=2.
+2025-11-06T23:48:54.526038200+01:00 [INFO] [charging:CS-SIM | Charger Simulator] AGV TUG-05 END charge at 90' (100%) on cs=2.

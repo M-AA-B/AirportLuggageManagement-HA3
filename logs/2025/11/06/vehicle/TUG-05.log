@@ -1,0 +1,44 @@
+2025-11-06T21:58:04.709434800+01:00 [INFO] [vehicle:TUG-05 | Tug 5] Task RUNNING: Task{id='SIM-5', type=CHARGE, status=RUNNING, payload={flight=LH895}}
+2025-11-06T21:58:05.590282800+01:00 [INFO] [vehicle:TUG-05 | Tug 5] Task DONE: Task{id='SIM-5', type=CHARGE, status=DONE, payload={flight=LH895}} (dur=11 min)
+2025-11-06T22:10:20.532473600+01:00 [INFO] [vehicle:TUG-05 | Tug 5] Task RUNNING: Task{id='SIM-5', type=LOAD, status=RUNNING, payload={flight=LH271}}
+2025-11-06T22:10:21.235949900+01:00 [INFO] [vehicle:TUG-05 | Tug 5] Task DONE: Task{id='SIM-5', type=LOAD, status=DONE, payload={flight=LH271}} (dur=7 min)
+2025-11-06T22:10:21.825818400+01:00 [INFO] [vehicle:TUG-05 | Tug 5] Task RUNNING: Task{id='SIM-12', type=UNLOAD, status=RUNNING, payload={flight=LH594}}
+2025-11-06T22:10:23.144710500+01:00 [INFO] [vehicle:TUG-05 | Tug 5] Task RUNNING: Task{id='SIM-19', type=LOAD, status=RUNNING, payload={flight=LH393}}
+2025-11-06T22:10:23.532453700+01:00 [INFO] [vehicle:TUG-05 | Tug 5] Task DONE: Task{id='SIM-12', type=UNLOAD, status=DONE, payload={flight=LH594}} (dur=17 min)
+2025-11-06T22:10:24.147965600+01:00 [INFO] [vehicle:TUG-05 | Tug 5] Task DONE: Task{id='SIM-19', type=LOAD, status=DONE, payload={flight=LH393}} (dur=10 min)
+2025-11-06T22:25:20.861732+01:00 [INFO] [vehicle:TUG-05 | Tug 5] Task RUNNING: Task{id='SIM-5', type=LOAD, status=RUNNING, payload={flight=LH641}}
+2025-11-06T22:25:22.305777600+01:00 [INFO] [vehicle:TUG-05 | Tug 5] Task DONE: Task{id='SIM-5', type=LOAD, status=DONE, payload={flight=LH641}} (dur=18 min)
+2025-11-06T22:25:51.046303500+01:00 [INFO] [vehicle:TUG-05 | Tug 5] Task RUNNING: Task{id='SIM-5', type=CHARGE, status=RUNNING, payload={flight=LH203}}
+2025-11-06T22:25:52.328635200+01:00 [INFO] [vehicle:TUG-05 | Tug 5] Task DONE: Task{id='SIM-5', type=CHARGE, status=DONE, payload={flight=LH203}} (dur=16 min)
+2025-11-06T22:26:38.371201200+01:00 [INFO] [vehicle:TUG-05 | Tug 5] Task RUNNING: Task{id='SIM-5', type=LOAD, status=RUNNING, payload={flight=LH895}}
+2025-11-06T22:26:38.975390800+01:00 [INFO] [vehicle:TUG-05 | Tug 5] Task DONE: Task{id='SIM-5', type=LOAD, status=DONE, payload={flight=LH895}} (dur=6 min)
+2025-11-06T22:26:39.972620500+01:00 [INFO] [vehicle:TUG-05 | Tug 5] Task RUNNING: Task{id='SIM-14', type=TRANSFER, status=RUNNING, payload={flight=LH904, from=CONV-4, to=BAY-5}}
+2025-11-06T22:26:41.774985300+01:00 [INFO] [vehicle:TUG-05 | Tug 5] Task DONE: Task{id='SIM-14', type=TRANSFER, status=DONE, payload={flight=LH904, from=CONV-4, to=BAY-5}} (dur=18 min)
+2025-11-06T22:31:20.488637400+01:00 [INFO] [vehicle:TUG-05 | Tug 5] Task RUNNING: Task{id='SIM-5', type=CHARGE, status=RUNNING, payload={flight=LH183}}
+2025-11-06T22:31:21.792185+01:00 [INFO] [vehicle:TUG-05 | Tug 5] Task RUNNING: Task{id='SIM-13', type=UNLOAD, status=RUNNING, payload={flight=LH888}}
+2025-11-06T22:31:21.799184200+01:00 [INFO] [vehicle:TUG-05 | Tug 5] Task DONE: Task{id='SIM-5', type=CHARGE, status=DONE, payload={flight=LH183}} (dur=13 min)
+2025-11-06T22:31:22.597657500+01:00 [INFO] [vehicle:TUG-05 | Tug 5] Task DONE: Task{id='SIM-13', type=UNLOAD, status=DONE, payload={flight=LH888}} (dur=8 min)
+2025-11-06T22:34:43.750696200+01:00 [INFO] [vehicle:TUG-05 | Tug 5] Task RUNNING: Task{id='SIM-5', type=UNLOAD, status=RUNNING, payload={flight=LH530}}
+2025-11-06T22:34:45.655104+01:00 [INFO] [vehicle:TUG-05 | Tug 5] Task DONE: Task{id='SIM-5', type=UNLOAD, status=DONE, payload={flight=LH530}} (dur=19 min)
+2025-11-06T22:36:21.781195500+01:00 [INFO] [vehicle:TUG-05 | Tug 5] Task RUNNING: Task{id='SIM-5', type=LOAD, status=RUNNING, payload={flight=LH212}}
+2025-11-06T22:36:22.584030500+01:00 [INFO] [vehicle:TUG-05 | Tug 5] Task DONE: Task{id='SIM-5', type=LOAD, status=DONE, payload={flight=LH212}} (dur=8 min)
+2025-11-06T22:37:21.653933800+01:00 [INFO] [vehicle:TUG-05 | Tug 5] Task RUNNING: Task{id='SIM-5', type=TRANSFER, status=RUNNING, payload={flight=LH875, from=CONV-4, to=BAY-3}}
+2025-11-06T22:37:22.157563+01:00 [INFO] [vehicle:TUG-05 | Tug 5] Task DONE: Task{id='SIM-5', type=TRANSFER, status=DONE, payload={flight=LH875, from=CONV-4, to=BAY-3}} (dur=5 min)
+2025-11-06T22:37:22.851209100+01:00 [INFO] [vehicle:TUG-05 | Tug 5] Task RUNNING: Task{id='SIM-12', type=TRANSFER, status=RUNNING, payload={flight=LH809, from=CONV-1, to=BAY-2}}
+2025-11-06T22:37:23.856602+01:00 [INFO] [vehicle:TUG-05 | Tug 5] Task DONE: Task{id='SIM-12', type=TRANSFER, status=DONE, payload={flight=LH809, from=CONV-1, to=BAY-2}} (dur=10 min)
+2025-11-06T22:37:31.620614200+01:00 [INFO] [vehicle:TUG-05 | Tug 5] Task RUNNING: Task{id='SIM-5', type=CHARGE, status=RUNNING, payload={flight=LH644}}
+2025-11-06T22:37:32.623219200+01:00 [INFO] [vehicle:TUG-05 | Tug 5] Task DONE: Task{id='SIM-5', type=CHARGE, status=DONE, payload={flight=LH644}} (dur=10 min)
+2025-11-06T22:53:00.773356200+01:00 [INFO] [vehicle:TUG-05 | Tug 5] Task RUNNING: Task{id='SIM-5', type=UNLOAD, status=RUNNING, payload={flight=LH274}}
+2025-11-06T22:53:02.779484800+01:00 [INFO] [vehicle:TUG-05 | Tug 5] Task DONE: Task{id='SIM-5', type=UNLOAD, status=DONE, payload={flight=LH274}} (dur=20 min)
+2025-11-06T22:57:35.038933600+01:00 [INFO] [vehicle:TUG-05 | Tug 5] Task RUNNING: Task{id='SIM-5', type=LOAD, status=RUNNING, payload={flight=LH102}}
+2025-11-06T22:57:36.544039800+01:00 [INFO] [vehicle:TUG-05 | Tug 5] Task DONE: Task{id='SIM-5', type=LOAD, status=DONE, payload={flight=LH102}} (dur=15 min)
+2025-11-06T23:00:11.505697+01:00 [INFO] [vehicle:TUG-05 | Tug 5] Task RUNNING: Task{id='SIM-5', type=UNLOAD, status=RUNNING, payload={flight=LH665}}
+2025-11-06T23:00:12.678187900+01:00 [INFO] [vehicle:TUG-05 | Tug 5] Task DONE: Task{id='SIM-5', type=UNLOAD, status=DONE, payload={flight=LH665}} (dur=11 min)
+2025-11-06T23:16:00.936536900+01:00 [INFO] [vehicle:TUG-05 | Tug 5] Task RUNNING: Task{id='SIM-5', type=UNLOAD, status=RUNNING, payload={flight=LH211}}
+2025-11-06T23:16:01.544530800+01:00 [INFO] [vehicle:TUG-05 | Tug 5] Task DONE: Task{id='SIM-5', type=UNLOAD, status=DONE, payload={flight=LH211}} (dur=6 min)
+2025-11-06T23:45:17.083992200+01:00 [INFO] [vehicle:TUG-05 | Tug 5] Task RUNNING: Task{id='SIM-5', type=UNLOAD, status=RUNNING, payload={flight=LH381}}
+2025-11-06T23:45:18.687385400+01:00 [INFO] [vehicle:TUG-05 | Tug 5] Task RUNNING: Task{id='SIM-12', type=UNLOAD, status=RUNNING, payload={flight=LH772}}
+2025-11-06T23:45:18.786421200+01:00 [INFO] [vehicle:TUG-05 | Tug 5] Task DONE: Task{id='SIM-5', type=UNLOAD, status=DONE, payload={flight=LH381}} (dur=17 min)
+2025-11-06T23:45:19.889604300+01:00 [INFO] [vehicle:TUG-05 | Tug 5] Task DONE: Task{id='SIM-12', type=UNLOAD, status=DONE, payload={flight=LH772}} (dur=12 min)
+2025-11-06T23:48:54.606038800+01:00 [INFO] [vehicle:TUG-05 | Tug 5] Task RUNNING: Task{id='SIM-5', type=TRANSFER, status=RUNNING, payload={flight=LH648, from=CONV-2, to=BAY-1}}
+2025-11-06T23:48:55.210514100+01:00 [INFO] [vehicle:TUG-05 | Tug 5] Task DONE: Task{id='SIM-5', type=TRANSFER, status=DONE, payload={flight=LH648, from=CONV-2, to=BAY-1}} (dur=6 min)

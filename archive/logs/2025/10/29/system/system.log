@@ -1,0 +1,24 @@
+2025-10-29T21:07:27.559503300+01:00 [INFO] [system:system | System] Placed luggage BG998877 at CONVEYOR-1
+2025-10-29T21:07:27.561503200+01:00 [INFO] [system:system | System] Placed luggage BG111222 at VEHICLE:TUG-07
+2025-10-29T21:07:27.566505600+01:00 [INFO] [system:system | System] Enqueued Task{id='T1', type=LOAD, status=PENDING, payload={flight=LH123, bag=BG998877}}
+2025-10-29T21:07:27.567504100+01:00 [INFO] [system:system | System] Enqueued Task{id='T2', type=TRANSFER, status=PENDING, payload={from=CONVEYOR-1, to=VEHICLE:TUG-07}}
+2025-10-29T21:07:27.571504+01:00 [INFO] [system:system | System] System started
+2025-10-29T21:07:27.573503900+01:00 [ERROR] [system:system | System] Demo error: just testing log levels
+2025-10-29T21:08:08.249709200+01:00 [INFO] [system:system | System] Placed luggage BG998877 at CONVEYOR-1
+2025-10-29T21:08:08.251710400+01:00 [INFO] [system:system | System] Placed luggage BG111222 at VEHICLE:TUG-07
+2025-10-29T21:08:08.257713600+01:00 [INFO] [system:system | System] Enqueued Task{id='T1', type=LOAD, status=PENDING, payload={flight=LH123, bag=BG998877}}
+2025-10-29T21:08:08.257713600+01:00 [INFO] [system:system | System] Enqueued Task{id='T2', type=TRANSFER, status=PENDING, payload={from=CONVEYOR-1, to=VEHICLE:TUG-07}}
+2025-10-29T21:08:08.269712500+01:00 [INFO] [system:system | System] System started
+2025-10-29T21:08:08.271711400+01:00 [ERROR] [system:system | System] Demo error: just testing log levels
+2025-10-29T21:13:36.433907500+01:00 [INFO] [system:system | System] Placed luggage BG998877 at CONVEYOR-1
+2025-10-29T21:13:36.435914900+01:00 [INFO] [system:system | System] Placed luggage BG111222 at VEHICLE:TUG-07
+2025-10-29T21:13:36.442907300+01:00 [INFO] [system:system | System] Enqueued Task{id='T1', type=LOAD, status=PENDING, payload={flight=LH123, bag=BG998877}}
+2025-10-29T21:13:36.443908400+01:00 [INFO] [system:system | System] Enqueued Task{id='T2', type=TRANSFER, status=PENDING, payload={from=CONVEYOR-1, to=VEHICLE:TUG-07}}
+2025-10-29T21:13:36.447908100+01:00 [INFO] [system:system | System] System started
+2025-10-29T21:13:36.449907+01:00 [ERROR] [system:system | System] Demo error: just testing log levels
+2025-10-29T21:23:28.643956300+01:00 [INFO] [system:system | System] Placed luggage BG998877 at CONVEYOR-1
+2025-10-29T21:23:28.645956500+01:00 [INFO] [system:system | System] Placed luggage BG111222 at VEHICLE:TUG-07
+2025-10-29T21:23:28.652957800+01:00 [INFO] [system:system | System] Enqueued Task{id='T1', type=LOAD, status=PENDING, payload={flight=LH123, bag=BG998877}}
+2025-10-29T21:23:28.652957800+01:00 [INFO] [system:system | System] Enqueued Task{id='T2', type=TRANSFER, status=PENDING, payload={from=CONVEYOR-1, to=VEHICLE:TUG-07}}
+2025-10-29T21:23:28.657960300+01:00 [INFO] [system:system | System] System started
+2025-10-29T21:23:28.659957+01:00 [ERROR] [system:system | System] Demo error: testing log levels

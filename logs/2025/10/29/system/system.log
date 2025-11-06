@@ -1,0 +1,66 @@
+2025-10-29T21:07:27.559503300+01:00 [INFO] [system:system | System] Placed luggage BG998877 at CONVEYOR-1
+2025-10-29T21:07:27.561503200+01:00 [INFO] [system:system | System] Placed luggage BG111222 at VEHICLE:TUG-07
+2025-10-29T21:07:27.566505600+01:00 [INFO] [system:system | System] Enqueued Task{id='T1', type=LOAD, status=PENDING, payload={flight=LH123, bag=BG998877}}
+2025-10-29T21:07:27.567504100+01:00 [INFO] [system:system | System] Enqueued Task{id='T2', type=TRANSFER, status=PENDING, payload={from=CONVEYOR-1, to=VEHICLE:TUG-07}}
+2025-10-29T21:07:27.571504+01:00 [INFO] [system:system | System] System started
+2025-10-29T21:07:27.573503900+01:00 [ERROR] [system:system | System] Demo error: just testing log levels
+2025-10-29T21:08:08.249709200+01:00 [INFO] [system:system | System] Placed luggage BG998877 at CONVEYOR-1
+2025-10-29T21:08:08.251710400+01:00 [INFO] [system:system | System] Placed luggage BG111222 at VEHICLE:TUG-07
+2025-10-29T21:08:08.257713600+01:00 [INFO] [system:system | System] Enqueued Task{id='T1', type=LOAD, status=PENDING, payload={flight=LH123, bag=BG998877}}
+2025-10-29T21:08:08.257713600+01:00 [INFO] [system:system | System] Enqueued Task{id='T2', type=TRANSFER, status=PENDING, payload={from=CONVEYOR-1, to=VEHICLE:TUG-07}}
+2025-10-29T21:08:08.269712500+01:00 [INFO] [system:system | System] System started
+2025-10-29T21:08:08.271711400+01:00 [ERROR] [system:system | System] Demo error: just testing log levels
+2025-10-29T21:13:36.433907500+01:00 [INFO] [system:system | System] Placed luggage BG998877 at CONVEYOR-1
+2025-10-29T21:13:36.435914900+01:00 [INFO] [system:system | System] Placed luggage BG111222 at VEHICLE:TUG-07
+2025-10-29T21:13:36.442907300+01:00 [INFO] [system:system | System] Enqueued Task{id='T1', type=LOAD, status=PENDING, payload={flight=LH123, bag=BG998877}}
+2025-10-29T21:13:36.443908400+01:00 [INFO] [system:system | System] Enqueued Task{id='T2', type=TRANSFER, status=PENDING, payload={from=CONVEYOR-1, to=VEHICLE:TUG-07}}
+2025-10-29T21:13:36.447908100+01:00 [INFO] [system:system | System] System started
+2025-10-29T21:13:36.449907+01:00 [ERROR] [system:system | System] Demo error: just testing log levels
+2025-10-29T21:23:28.643956300+01:00 [INFO] [system:system | System] Placed luggage BG998877 at CONVEYOR-1
+2025-10-29T21:23:28.645956500+01:00 [INFO] [system:system | System] Placed luggage BG111222 at VEHICLE:TUG-07
+2025-10-29T21:23:28.652957800+01:00 [INFO] [system:system | System] Enqueued Task{id='T1', type=LOAD, status=PENDING, payload={flight=LH123, bag=BG998877}}
+2025-10-29T21:23:28.652957800+01:00 [INFO] [system:system | System] Enqueued Task{id='T2', type=TRANSFER, status=PENDING, payload={from=CONVEYOR-1, to=VEHICLE:TUG-07}}
+2025-10-29T21:23:28.657960300+01:00 [INFO] [system:system | System] System started
+2025-10-29T21:23:28.659957+01:00 [ERROR] [system:system | System] Demo error: testing log levels
+2025-10-29T22:29:52.598537400+01:00 [INFO] [system:system | System] Placed luggage BG998877 at CONVEYOR-1
+2025-10-29T22:29:52.600534900+01:00 [INFO] [system:system | System] Placed luggage BG111222 at VEHICLE:TUG-07
+2025-10-29T22:29:52.605536100+01:00 [INFO] [system:system | System] Enqueued Task{id='T1', type=LOAD, status=PENDING, payload={flight=LH123, bag=BG998877}}
+2025-10-29T22:29:52.605536100+01:00 [INFO] [system:system | System] Enqueued Task{id='T2', type=TRANSFER, status=PENDING, payload={from=CONVEYOR-1, to=VEHICLE:TUG-07}}
+2025-10-29T22:29:52.608536300+01:00 [INFO] [system:system | System] System started
+2025-10-29T22:29:52.610534700+01:00 [ERROR] [system:system | System] Demo error: testing log levels
+2025-10-29T22:35:09.617721800+01:00 [INFO] [system:system | System] Placed luggage BG3 at CAROUSEL-2
+2025-10-29T22:35:09.621720700+01:00 [INFO] [system:system | System] Placed luggage BG1 at CONVEYOR-1
+2025-10-29T22:35:09.625724400+01:00 [INFO] [system:system | System] Placed luggage BG4 at A
+2025-10-29T22:35:09.625724400+01:00 [INFO] [system:system | System] Placed luggage BG4 at B
+2025-10-29T22:35:09.628723900+01:00 [INFO] [system:system | System] Placed luggage BG2 at BIN-1
+2025-10-29T22:35:09.639723700+01:00 [INFO] [system:system | System] Enqueued Task{id='A', type=LOAD, status=PENDING, payload={}}
+2025-10-29T22:35:09.640720700+01:00 [INFO] [system:system | System] Enqueued Task{id='B', type=UNLOAD, status=PENDING, payload={}}
+2025-10-29T22:35:09.648722700+01:00 [INFO] [system:system | System] Enqueued Task{id='T1', type=LOAD, status=PENDING, payload={}}
+2025-10-29T22:35:09.652725900+01:00 [INFO] [system:system | System] Enqueued Task{id='T1', type=LOAD, status=PENDING, payload={}}
+2025-10-29T22:35:09.655724500+01:00 [INFO] [system:system | System] Enqueued Task{id='X', type=TRANSFER, status=PENDING, payload={}}
+2025-10-29T22:35:09.656723+01:00 [INFO] [system:system | System] Enqueued Task{id='Y', type=CHARGE, status=PENDING, payload={}}
+2025-10-29T22:35:09.684720900+01:00 [ERROR] [system:system | System] boom
+2025-10-29T22:35:59.497805200+01:00 [INFO] [system:system | System] Placed luggage BG3 at CAROUSEL-2
+2025-10-29T22:35:59.502805900+01:00 [INFO] [system:system | System] Placed luggage BG1 at CONVEYOR-1
+2025-10-29T22:35:59.506806300+01:00 [INFO] [system:system | System] Placed luggage BG4 at A
+2025-10-29T22:35:59.507805400+01:00 [INFO] [system:system | System] Placed luggage BG4 at B
+2025-10-29T22:35:59.509808900+01:00 [INFO] [system:system | System] Placed luggage BG2 at BIN-1
+2025-10-29T22:35:59.522806500+01:00 [INFO] [system:system | System] Enqueued Task{id='A', type=LOAD, status=PENDING, payload={}}
+2025-10-29T22:35:59.523805200+01:00 [INFO] [system:system | System] Enqueued Task{id='B', type=UNLOAD, status=PENDING, payload={}}
+2025-10-29T22:35:59.534806800+01:00 [INFO] [system:system | System] Enqueued Task{id='T1', type=LOAD, status=PENDING, payload={}}
+2025-10-29T22:35:59.539809800+01:00 [INFO] [system:system | System] Enqueued Task{id='T1', type=LOAD, status=PENDING, payload={}}
+2025-10-29T22:35:59.544808400+01:00 [INFO] [system:system | System] Enqueued Task{id='X', type=TRANSFER, status=PENDING, payload={}}
+2025-10-29T22:35:59.545806300+01:00 [INFO] [system:system | System] Enqueued Task{id='Y', type=CHARGE, status=PENDING, payload={}}
+2025-10-29T22:35:59.575804700+01:00 [ERROR] [system:system | System] boom
+2025-10-29T22:39:56.230951200+01:00 [INFO] [system:system | System] Placed luggage BG3 at CAROUSEL-2
+2025-10-29T22:39:56.234955200+01:00 [INFO] [system:system | System] Placed luggage BG1 at CONVEYOR-1
+2025-10-29T22:39:56.238953400+01:00 [INFO] [system:system | System] Placed luggage BG4 at A
+2025-10-29T22:39:56.239953800+01:00 [INFO] [system:system | System] Placed luggage BG4 at B
+2025-10-29T22:39:56.241958200+01:00 [INFO] [system:system | System] Placed luggage BG2 at BIN-1
+2025-10-29T22:39:56.256953300+01:00 [INFO] [system:system | System] Enqueued Task{id='A', type=LOAD, status=PENDING, payload={}}
+2025-10-29T22:39:56.257954900+01:00 [INFO] [system:system | System] Enqueued Task{id='B', type=UNLOAD, status=PENDING, payload={}}
+2025-10-29T22:39:56.269959800+01:00 [INFO] [system:system | System] Enqueued Task{id='T1', type=LOAD, status=PENDING, payload={}}
+2025-10-29T22:39:56.274964700+01:00 [INFO] [system:system | System] Enqueued Task{id='T1', type=LOAD, status=PENDING, payload={}}
+2025-10-29T22:39:56.279958100+01:00 [INFO] [system:system | System] Enqueued Task{id='X', type=TRANSFER, status=PENDING, payload={}}
+2025-10-29T22:39:56.280955300+01:00 [INFO] [system:system | System] Enqueued Task{id='Y', type=CHARGE, status=PENDING, payload={}}
+2025-10-29T22:39:56.313956800+01:00 [ERROR] [system:system | System] boom

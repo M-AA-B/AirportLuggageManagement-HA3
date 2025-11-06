@@ -1,0 +1,2 @@
+2025-11-06T21:58:04.715441500+01:00 [INFO] [vehicle:TUG-10 | Tug 10] Task RUNNING: Task{id='SIM-10', type=TRANSFER, status=RUNNING, payload={flight=LH598, from=CONV-1, to=BAY-3}}
+2025-11-06T21:58:05.357284400+01:00 [INFO] [vehicle:TUG-10 | Tug 10] Task DONE: Task{id='SIM-10', type=TRANSFER, status=DONE, payload={flight=LH598, from=CONV-1, to=BAY-3}} (dur=8 min)

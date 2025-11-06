@@ -1,0 +1,4 @@
+2025-11-06T21:58:04.711435500+01:00 [INFO] [vehicle:TUG-09 | Tug 9] Task RUNNING: Task{id='SIM-9', type=TRANSFER, status=RUNNING, payload={flight=LH459, from=CONV-4, to=BAY-4}}
+2025-11-06T21:58:05.512286100+01:00 [INFO] [vehicle:TUG-09 | Tug 9] Task DONE: Task{id='SIM-9', type=TRANSFER, status=DONE, payload={flight=LH459, from=CONV-4, to=BAY-4}} (dur=10 min)
+2025-11-06T22:26:38.384198500+01:00 [INFO] [vehicle:TUG-09 | Tug 9] Task RUNNING: Task{id='SIM-9', type=TRANSFER, status=RUNNING, payload={flight=LH903, from=CONV-4, to=BAY-2}}
+2025-11-06T22:26:40.315572400+01:00 [INFO] [vehicle:TUG-09 | Tug 9] Task DONE: Task{id='SIM-9', type=TRANSFER, status=DONE, payload={flight=LH903, from=CONV-4, to=BAY-2}} (dur=19 min)

@@ -1,0 +1,87 @@
+2025-11-06T20:12:42.914417+01:00 [INFO] [vehicle:TUG-07 | Tug 07] No task to dispatch
+2025-11-06T20:12:42.923422100+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task RUNNING: Task{id='T1', type=LOAD, status=RUNNING, payload={}}
+2025-11-06T20:12:42.929424+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task DONE: Task{id='T1', type=LOAD, status=DONE, payload={}}
+2025-11-06T20:12:43.038418700+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task RUNNING: Task{id='T1', type=LOAD, status=RUNNING, payload={}}
+2025-11-06T20:12:43.040418300+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task DONE: Task{id='T1', type=LOAD, status=DONE, payload={}}
+2025-11-06T20:12:43.050423400+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task RUNNING: Task{id='X', type=TRANSFER, status=RUNNING, payload={}}
+2025-11-06T20:12:43.055419500+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task DONE: Task{id='X', type=TRANSFER, status=DONE, payload={}}
+2025-11-06T20:12:43.126415400+01:00 [INFO] [vehicle:TUG-07 | Tug 07] hello
+2025-11-06T20:12:58.912592500+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task RUNNING: Task{id='T1', type=LOAD, status=RUNNING, payload={flight=LH123, bag=BG998877}}
+2025-11-06T20:12:58.914595100+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task DONE: Task{id='T1', type=LOAD, status=DONE, payload={flight=LH123, bag=BG998877}}
+2025-11-06T20:12:58.920593900+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Assigned LOAD LH123 bag=BG998877
+2025-11-06T21:57:46.853357400+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task RUNNING: Task{id='T1', type=LOAD, status=RUNNING, payload={flight=LH123, bag=BG998877}}
+2025-11-06T21:57:46.854355200+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task DONE: Task{id='T1', type=LOAD, status=DONE, payload={flight=LH123, bag=BG998877}}
+2025-11-06T21:57:46.860354900+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Assigned LOAD LH123 bag=BG998877
+2025-11-06T21:58:04.712434100+01:00 [INFO] [vehicle:TUG-07 | Tug 7] Task RUNNING: Task{id='SIM-7', type=LOAD, status=RUNNING, payload={flight=LH108}}
+2025-11-06T21:58:06.237071400+01:00 [INFO] [vehicle:TUG-07 | Tug 7] Task DONE: Task{id='SIM-7', type=LOAD, status=DONE, payload={flight=LH108}} (dur=19 min)
+2025-11-06T22:10:02.945670100+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task RUNNING: Task{id='T1', type=LOAD, status=RUNNING, payload={flight=LH123, bag=BG998877}}
+2025-11-06T22:10:02.947670600+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task DONE: Task{id='T1', type=LOAD, status=DONE, payload={flight=LH123, bag=BG998877}}
+2025-11-06T22:10:02.952666500+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Assigned LOAD LH123 bag=BG998877
+2025-11-06T22:10:20.534471+01:00 [INFO] [vehicle:TUG-07 | Tug 7] Task RUNNING: Task{id='SIM-7', type=TRANSFER, status=RUNNING, payload={flight=LH732, from=CONV-3, to=BAY-1}}
+2025-11-06T22:10:22.136925900+01:00 [INFO] [vehicle:TUG-07 | Tug 7] Task RUNNING: Task{id='SIM-14', type=UNLOAD, status=RUNNING, payload={flight=LH394}}
+2025-11-06T22:10:22.538297500+01:00 [INFO] [vehicle:TUG-07 | Tug 7] Task DONE: Task{id='SIM-7', type=TRANSFER, status=DONE, payload={flight=LH732, from=CONV-3, to=BAY-1}} (dur=20 min)
+2025-11-06T22:10:22.740366800+01:00 [INFO] [vehicle:TUG-07 | Tug 7] Task DONE: Task{id='SIM-14', type=UNLOAD, status=DONE, payload={flight=LH394}} (dur=6 min)
+2025-11-06T22:24:54.809492700+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task RUNNING: Task{id='T1', type=LOAD, status=RUNNING, payload={flight=LH123, bag=BG998877}}
+2025-11-06T22:24:54.812492900+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task DONE: Task{id='T1', type=LOAD, status=DONE, payload={flight=LH123, bag=BG998877}}
+2025-11-06T22:24:54.819493900+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Assigned LOAD LH123 bag=BG998877
+2025-11-06T22:25:20.864734900+01:00 [INFO] [vehicle:TUG-07 | Tug 7] Task RUNNING: Task{id='SIM-7', type=UNLOAD, status=RUNNING, payload={flight=LH907}}
+2025-11-06T22:25:21.433073500+01:00 [INFO] [vehicle:TUG-07 | Tug 7] Task DONE: Task{id='SIM-7', type=UNLOAD, status=DONE, payload={flight=LH907}} (dur=7 min)
+2025-11-06T22:26:30.771335400+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task RUNNING: Task{id='T1', type=LOAD, status=RUNNING, payload={flight=LH123, bag=BG998877}}
+2025-11-06T22:26:30.772334+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task DONE: Task{id='T1', type=LOAD, status=DONE, payload={flight=LH123, bag=BG998877}}
+2025-11-06T22:26:30.779333300+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Assigned LOAD LH123 bag=BG998877
+2025-11-06T22:26:38.377205700+01:00 [INFO] [vehicle:TUG-07 | Tug 7] Task RUNNING: Task{id='SIM-7', type=LOAD, status=RUNNING, payload={flight=LH825}}
+2025-11-06T22:26:39.986620100+01:00 [INFO] [vehicle:TUG-07 | Tug 7] Task RUNNING: Task{id='SIM-16', type=UNLOAD, status=RUNNING, payload={flight=LH790}}
+2025-11-06T22:26:40.379573100+01:00 [INFO] [vehicle:TUG-07 | Tug 7] Task DONE: Task{id='SIM-7', type=LOAD, status=DONE, payload={flight=LH825}} (dur=20 min)
+2025-11-06T22:26:40.588571800+01:00 [INFO] [vehicle:TUG-07 | Tug 7] Task DONE: Task{id='SIM-16', type=UNLOAD, status=DONE, payload={flight=LH790}} (dur=6 min)
+2025-11-06T22:31:17.966979900+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task RUNNING: Task{id='T1', type=LOAD, status=RUNNING, payload={flight=LH123, bag=BG998877}}
+2025-11-06T22:31:17.968982600+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task DONE: Task{id='T1', type=LOAD, status=DONE, payload={flight=LH123, bag=BG998877}}
+2025-11-06T22:31:17.973980200+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Assigned LOAD LH123 bag=BG998877
+2025-11-06T22:31:20.487634300+01:00 [INFO] [vehicle:TUG-07 | Tug 7] Task RUNNING: Task{id='SIM-7', type=LOAD, status=RUNNING, payload={flight=LH609}}
+2025-11-06T22:31:22.491658+01:00 [INFO] [vehicle:TUG-07 | Tug 7] Task DONE: Task{id='SIM-7', type=LOAD, status=DONE, payload={flight=LH609}} (dur=20 min)
+2025-11-06T22:34:41.487583600+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task RUNNING: Task{id='T1', type=LOAD, status=RUNNING, payload={flight=LH123, bag=BG998877}}
+2025-11-06T22:34:41.489581300+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task DONE: Task{id='T1', type=LOAD, status=DONE, payload={flight=LH123, bag=BG998877}}
+2025-11-06T22:34:41.500585+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Assigned LOAD LH123 bag=BG998877
+2025-11-06T22:36:19.288965600+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task RUNNING: Task{id='T1', type=LOAD, status=RUNNING, payload={flight=LH123, bag=BG998877}}
+2025-11-06T22:36:19.290959400+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task DONE: Task{id='T1', type=LOAD, status=DONE, payload={flight=LH123, bag=BG998877}}
+2025-11-06T22:36:19.299961500+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Assigned LOAD LH123 bag=BG998877
+2025-11-06T22:36:21.783199100+01:00 [INFO] [vehicle:TUG-07 | Tug 7] Task RUNNING: Task{id='SIM-7', type=TRANSFER, status=RUNNING, payload={flight=LH539, from=CONV-1, to=BAY-2}}
+2025-11-06T22:36:23.187701+01:00 [INFO] [vehicle:TUG-07 | Tug 7] Task DONE: Task{id='SIM-7', type=TRANSFER, status=DONE, payload={flight=LH539, from=CONV-1, to=BAY-2}} (dur=14 min)
+2025-11-06T22:37:18.807737400+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task RUNNING: Task{id='T1', type=LOAD, status=RUNNING, payload={flight=LH123, bag=BG998877}}
+2025-11-06T22:37:18.808737400+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task DONE: Task{id='T1', type=LOAD, status=DONE, payload={flight=LH123, bag=BG998877}}
+2025-11-06T22:37:18.812738600+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Assigned LOAD LH123 bag=BG998877
+2025-11-06T22:37:21.655937400+01:00 [INFO] [vehicle:TUG-07 | Tug 7] Task RUNNING: Task{id='SIM-7', type=CHARGE, status=RUNNING, payload={flight=LH464}}
+2025-11-06T22:37:22.459171300+01:00 [INFO] [vehicle:TUG-07 | Tug 7] Task DONE: Task{id='SIM-7', type=CHARGE, status=DONE, payload={flight=LH464}} (dur=8 min)
+2025-11-06T22:37:23.453078100+01:00 [INFO] [vehicle:TUG-07 | Tug 7] Task RUNNING: Task{id='SIM-14', type=UNLOAD, status=RUNNING, payload={flight=LH908}}
+2025-11-06T22:37:24.657432600+01:00 [INFO] [vehicle:TUG-07 | Tug 7] Task DONE: Task{id='SIM-14', type=UNLOAD, status=DONE, payload={flight=LH908}} (dur=12 min)
+2025-11-06T22:52:57.447454200+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task RUNNING: Task{id='T1', type=LOAD, status=RUNNING, payload={flight=LH123, bag=BG998877}}
+2025-11-06T22:52:57.450457400+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task DONE: Task{id='T1', type=LOAD, status=DONE, payload={flight=LH123, bag=BG998877}}
+2025-11-06T22:52:57.461450600+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Assigned LOAD LH123 bag=BG998877
+2025-11-06T22:53:00.775355500+01:00 [INFO] [vehicle:TUG-07 | Tug 7] Task RUNNING: Task{id='SIM-7', type=LOAD, status=RUNNING, payload={flight=LH817}}
+2025-11-06T22:53:01.479352700+01:00 [INFO] [vehicle:TUG-07 | Tug 7] Task DONE: Task{id='SIM-7', type=LOAD, status=DONE, payload={flight=LH817}} (dur=7 min)
+2025-11-06T22:57:30.647926600+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task RUNNING: Task{id='T1', type=LOAD, status=RUNNING, payload={flight=LH123, bag=BG998877}}
+2025-11-06T22:57:30.649927700+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task DONE: Task{id='T1', type=LOAD, status=DONE, payload={flight=LH123, bag=BG998877}}
+2025-11-06T22:57:30.660927100+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Assigned LOAD LH123 bag=BG998877
+2025-11-06T23:00:08.669825100+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task RUNNING: Task{id='T1', type=LOAD, status=RUNNING, payload={flight=LH123, bag=BG998877}}
+2025-11-06T23:00:08.674820900+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task DONE: Task{id='T1', type=LOAD, status=DONE, payload={flight=LH123, bag=BG998877}}
+2025-11-06T23:00:08.683833900+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Assigned LOAD LH123 bag=BG998877
+2025-11-06T23:16:32.396899400+01:00 [INFO] [vehicle:TUG-07 | Tug 07] No task to dispatch
+2025-11-06T23:16:32.401899300+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task RUNNING: Task{id='T1', type=LOAD, status=RUNNING, payload={}}
+2025-11-06T23:16:32.403901400+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task DONE: Task{id='T1', type=LOAD, status=DONE, payload={}}
+2025-11-06T23:16:32.408898800+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task RUNNING: Task{id='T1', type=LOAD, status=RUNNING, payload={}}
+2025-11-06T23:16:32.409898700+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task DONE: Task{id='T1', type=LOAD, status=DONE, payload={}}
+2025-11-06T23:16:32.416895800+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task RUNNING: Task{id='X', type=TRANSFER, status=RUNNING, payload={}}
+2025-11-06T23:16:32.418897700+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task DONE: Task{id='X', type=TRANSFER, status=DONE, payload={}}
+2025-11-06T23:16:32.484897700+01:00 [INFO] [vehicle:TUG-07 | Tug 07] hello
+2025-11-06T23:45:09.818746+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task RUNNING: Task{id='T1', type=LOAD, status=RUNNING, payload={flight=LH123, bag=BG998877}}
+2025-11-06T23:45:09.821733500+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task DONE: Task{id='T1', type=LOAD, status=DONE, payload={flight=LH123, bag=BG998877}}
+2025-11-06T23:45:09.828737300+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Assigned LOAD LH123 bag=BG998877
+2025-11-06T23:45:17.085991600+01:00 [INFO] [vehicle:TUG-07 | Tug 7] Task RUNNING: Task{id='SIM-7', type=TRANSFER, status=RUNNING, payload={flight=LH516, from=CONV-3, to=BAY-5}}
+2025-11-06T23:45:18.588624700+01:00 [INFO] [vehicle:TUG-07 | Tug 7] Task DONE: Task{id='SIM-7', type=TRANSFER, status=DONE, payload={flight=LH516, from=CONV-3, to=BAY-5}} (dur=15 min)
+2025-11-06T23:45:19.084895200+01:00 [INFO] [vehicle:TUG-07 | Tug 7] Task RUNNING: Task{id='SIM-14', type=LOAD, status=RUNNING, payload={flight=LH911}}
+2025-11-06T23:45:19.887607700+01:00 [INFO] [vehicle:TUG-07 | Tug 7] Task DONE: Task{id='SIM-14', type=LOAD, status=DONE, payload={flight=LH911}} (dur=8 min)
+2025-11-06T23:48:11.813625600+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task RUNNING: Task{id='T1', type=LOAD, status=RUNNING, payload={flight=LH123, bag=BG998877}}
+2025-11-06T23:48:11.814621+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task DONE: Task{id='T1', type=LOAD, status=DONE, payload={flight=LH123, bag=BG998877}}
+2025-11-06T23:48:11.821620400+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Assigned LOAD LH123 bag=BG998877
+2025-11-06T23:48:38.783935700+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task RUNNING: Task{id='T1', type=LOAD, status=RUNNING, payload={flight=LH123, bag=BG998877}}
+2025-11-06T23:48:38.786937500+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Task DONE: Task{id='T1', type=LOAD, status=DONE, payload={flight=LH123, bag=BG998877}}
+2025-11-06T23:48:38.792934100+01:00 [INFO] [vehicle:TUG-07 | Tug 07] Assigned LOAD LH123 bag=BG998877
